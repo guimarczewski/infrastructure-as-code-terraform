@@ -1,6 +1,6 @@
 # Infrastructure as Code - IaC - Terraform
 
-![ Texto alternativo ](img/terraform_arq_2.png?raw=true "Título")
+![ Texto alternativo ](img/terraform_arq_2.png?raw=true "Architecture")
 
 Terraform is an infrastructure management tool that allows you to create, modify, and version infrastructure resources in cloud services like AWS, Azure, and Google Cloud Platform. It works through configuration files that describe the infrastructure you want to deploy.
 
@@ -10,7 +10,7 @@ Additionally, Terraform helps prevent human errors by automating the deployment 
 
 In summary, Terraform helps provision and manage infrastructure more efficiently, securely, and reliably, allowing developers to focus on building high-quality applications.
 
-![ Texto alternativo ](img/terraform_arquitetura.png?raw=true "clouds")
+![ Texto alternativo ](img/terraform_arquitetura.png?raw=true "Stack-Academy")
 
 As for examples of using Terraform for data engineering projects, here are a few:
 
