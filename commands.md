@@ -15,3 +15,5 @@ terraform plan: to verify that the configuration is correct;
 terraform apply: to create or modify resources in the cloud;
 When finished using the resources, terraform destroy: to remove everything that was created.
 However, this order may vary depending on the specific use case and the structure of your project. It is important to read the documentation carefully and understand how Terraform commands work before using them.
+
+![https://olohmann.github.io/azure-hands-on-labs/labs/07_iac/terraform.html](img/terraform_arq_2.png?raw=true "Architecture")
