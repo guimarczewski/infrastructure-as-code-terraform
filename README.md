@@ -10,11 +10,11 @@ Additionally, Terraform helps prevent human errors by automating the deployment 
 
 In summary, Terraform helps provision and manage infrastructure more efficiently, securely, and reliably, allowing developers to focus on building high-quality applications.
 
+![ Texto alternativo ](img/terraform_arquitetura.png?raw=true "clouds")
+
 As for examples of using Terraform for data engineering projects, here are a few:
 
 - Provisioning cloud-based compute and storage resources for running big data workloads like Apache Spark or Hadoop.
 - Setting up data pipelines using tools like Apache NiFi or AWS Glue, configuring data sources and destinations, and deploying the pipeline infrastructure.
 - Creating serverless data processing workflows using AWS Step Functions or Google Cloud Functions, and provisioning any necessary infrastructure components like APIs or databases.
 - Configuring monitoring and alerting infrastructure for data pipelines using tools like Prometheus or Grafana, and deploying the necessary resources with Terraform.
-
-![ Texto alternativo ](img/terraform_arquitetura.png?raw=true "clouds")
